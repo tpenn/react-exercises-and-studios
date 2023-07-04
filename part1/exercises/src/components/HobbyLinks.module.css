@@ -1,0 +1,13 @@
+.hobbiesText {
+    color: skyblue;
+    font-family: 'Lucida Sans';
+    font-size: 12pt;
+    text-align: left;
+ }
+ 
+ .hobbiesHeading {
+    color: purple;
+    text-align: left;
+    font-family: 'Lucida Sans';
+    font-size: 18pt;
+ }

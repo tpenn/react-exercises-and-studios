@@ -1,7 +1,7 @@
 import style from './BookList.module.css';
 
 export default function BookList() {
-   let pageTitle = "Book in Celebration of Sapphic Love and Internation Faerie Day! :D";
+   let pageTitle = "Books in Celebration of Sapphic Love and Internation Faerie Day! :D";
    let book1 = "https://iheartsapphfic.com/WP/wp-content/uploads/2022/09/The-Faerie-Queen.jpg";
    let book2 = "https://iheartsapphfic.com/WP/wp-content/uploads/2022/11/Diamond-Rough.jpg";
    let book3 = "https://iheartsapphfic.com/WP/wp-content/uploads/2023/05/The-Fae-Queens-Captive.jpg";
