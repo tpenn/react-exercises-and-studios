@@ -1,0 +1,16 @@
+.books {
+    align-content: flex-start;
+}
+
+.booksImage {
+    height: 240;
+    width: 340;
+    padding: 5px;
+    align-content: left;
+}
+
+.booksHeader {
+    color: purple;
+    font-size: 18pt;
+    text-align: left;
+}

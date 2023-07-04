@@ -1,7 +1,14 @@
 .choresText {
-   color: black;
+   color: red;
+   font-family: Cambria;
+   font-size: 12pt;
+   font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
-   color: black;
+   color: darkred;
+   text-decoration: underline;
+   text-align: left;
+   font-family: Cambria;
 }
