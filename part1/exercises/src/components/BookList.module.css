@@ -1,5 +1,7 @@
 .books {
     align-content: flex-start;
+    border-style: double;
+    background-color: black;
 }
 
 .booksImage {
